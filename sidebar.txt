@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[dru:home|Door43 (dru)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-dru|d43-dru repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-dru/archive/master.zip|d43-dru.zip]]
+
+**Recent Changes**
+{{changes>ns = dru}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/dru|Ethnologue data]]
+
